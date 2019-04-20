@@ -330,11 +330,9 @@ main#home h1 {
 		align-items: center;
 		text-align: center;
 	}
-	main .lg-heading {
+	main .lg-heading, main .text-secondary {
 		line-height: 1;
 		margin-bottom: 1rem;
-	}
-	.lg-heading, .text-secondary{
 		font-size: 4rem;
 	}
 	ul.menu-nav,
