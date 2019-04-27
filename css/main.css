@@ -313,6 +313,11 @@ main#home h1 {
 	height: 4%;
 }
 
+.tweet {
+	margin-left: 10%;
+	
+}
+
 @media screen and (min-width: 1171px) {
 	.projects {
 		grid-template-columns: repeat(4, 1fr);
